@@ -117,3 +117,28 @@ line-height: 30px;
    margin-bottom: 100px;
    padding-top: 50px;
 }
+/* latest deal section */
+.latest-deal{
+     text-align: center;
+}
+
+.bg-image{
+    background: url(../images/Rectangle\ 9.png);
+    background-repeat: no-repeat;
+     width: 1440px;
+     height: 449px;
+     margin-right: 240px; 
+     margin-left: 620px;
+}
+#get-the-Deal{
+    padding-top: 150px;
+}
+.email{
+border-radius: 8px;
+background: #FFF;
+width: 700px;
+height: 64px;
+border: 0;
+margin-left: 250px;
+}
+
