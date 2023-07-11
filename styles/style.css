@@ -127,8 +127,11 @@ line-height: 30px;
     background-repeat: no-repeat;
      width: 1440px;
      height: 449px;
+     /* background-position: center center;
+     background-size: cover; */
      margin-right: 240px; 
      margin-left: 620px;
+     
 }
 #get-the-Deal{
     padding-top: 150px;
@@ -172,4 +175,7 @@ font-size: 18px;
 font-style: normal;
 font-weight: 400;
 line-height: normal;
+}
+.featured{
+    text-align: center;
 }
